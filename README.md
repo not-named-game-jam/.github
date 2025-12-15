@@ -1,1 +1,1 @@
-# .github
+# Not Named Game Jam
