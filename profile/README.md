@@ -1,4 +1,4 @@
-## Not Named Game Jam
+## Chula Game Research and Development Github Organization
 
 <!--
 
